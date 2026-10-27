@@ -1,0 +1,7 @@
+cell,site,city,tech,band,kpi,value,threshold,volume,azimuth,tilt,priority_score,suggested_action
+RJ0011_LTE_B28_A,RJ0011,Nova Iguaçu,LTE,B28,dcr,2.01,1.0,630664,-10,2,100.77,"Checar cobertura/interferência (RSRP/SINR), alarmes de hardware e parâmetros de RLF."
+RJ0015_LTE_B7_A,RJ0015,Nova Iguaçu,LTE,B7,dcr,1.97,1.0,488926,-6,7,74.77,"Checar cobertura/interferência (RSRP/SINR), alarmes de hardware e parâmetros de RLF."
+RJ0003_LTE_B28_C,RJ0003,Duque de Caxias,LTE,B28,dl_thp_mbps,10.0,12.0,16290875,247,8,16.74,"Avaliar carga/PRB, qualidade (CQI/SINR) e ajuste de tilt/azimute."
+RJ0010_LTE_B28_A,RJ0010,Niterói,LTE,B28,dl_thp_mbps,10.22,12.0,16009219,-17,4,14.64,"Avaliar carga/PRB, qualidade (CQI/SINR) e ajuste de tilt/azimute."
+RJ0017_LTE_B7_A,RJ0017,Niterói,LTE,B7,ho_sr,90.0,97.0,279852,0,8,9.32,"Revisar relações de vizinhança, offsets de HO (A3/hysteresis) e colisão de PCI."
+RJ0016_NR_n78_C,RJ0016,Nova Iguaçu,NR,n78,ho_sr,90.12,97.0,122774,234,8,6.9,"Revisar relações de vizinhança, offsets de HO (A3/hysteresis) e colisão de PCI."
